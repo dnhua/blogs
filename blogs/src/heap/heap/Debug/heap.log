@@ -1,0 +1,10 @@
+﻿  test.cpp
+e:\file\1_study\博客相关\blogs\src\heap\heap\heapalg.hpp(25): warning C4018: “<”: 有符号/无符号不匹配
+  e:\file\1_study\博客相关\blogs\src\heap\heap\test.cpp(18): note: 参见对正在编译的函数 模板 实例化“T pop_heap<int>(std::vector<int,std::allocator<_Ty>> &)”的引用
+          with
+          [
+              T=int,
+              _Ty=int
+          ]
+e:\file\1_study\博客相关\blogs\src\heap\heap\heapalg.hpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  heap.vcxproj -> E:\file\1_study\博客相关\blogs\src\heap\Debug\heap.exe
